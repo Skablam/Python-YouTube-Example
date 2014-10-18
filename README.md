@@ -21,11 +21,11 @@ dev_key (YouTube developer key for the Product you have registered.)
 
 ##### youtube_printuploads.py
 
-The youtube_printuploads.py script logins to youtube and it requires an additional environment variable:
+The youtube_printuploads.py script logs into youtube and it requires an additional environment variable:
 
-user_id (User id for YouTube channel you want to get the uploads info from).
+user_id (User id of the YouTube channel you want to get the uploads info from).
 
-Once you have set this additional environment variables, then run the script as follows:
+Once you have set this additional environment variable, then run the script as follows:
 
 <pre>
 python youtube_printuploads.py
